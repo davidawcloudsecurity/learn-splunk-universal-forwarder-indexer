@@ -13,3 +13,5 @@ https://community.splunk.com/t5/Getting-Data-In/forward-server-listed-as-inactiv
 https://community.splunk.com/t5/Getting-Data-In/Configured-but-inactive-forwards/m-p/381518
 
 https://community.splunk.com/t5/Getting-Data-In/What-are-the-basic-troubleshooting-steps-in-case-of-universal/m-p/456364
+
+https://community.splunk.com/t5/Getting-Data-In/check-a-forwarder-is-working/m-p/37309#
