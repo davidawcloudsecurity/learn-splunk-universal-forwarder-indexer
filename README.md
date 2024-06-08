@@ -1,8 +1,10 @@
 # learn-splunk-universal-forwarder-indexer
 
+
+
 how to active forwarder
 
-https://safe.menlosecurity.com/https://community.splunk.com/t5/Getting-Data-In/How-to-activate-forwarder-server/m-p/368584
+https://community.splunk.com/t5/Getting-Data-In/How-to-activate-forwarder-server/m-p/368584
 
 https://www.google.com/search?q=watch+-n+5+splunk+list+forward-server&oq=watch+-n+5+splunk+list+forward-server&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzYxMWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8
 
